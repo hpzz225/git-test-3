@@ -1,0 +1,22 @@
+{
+  "name": "git-test-3",
+  "version": "1.0.0",
+  "description": "this is example about test-git-3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpdzz/git-test-3.git"
+  },
+  "author": "huuphuoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hpdzz/git-test-3/issues"
+  },
+  "homepage": "https://github.com/hpdzz/git-test-3#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
